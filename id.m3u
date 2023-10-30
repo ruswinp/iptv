@@ -1,59 +1,32 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="NET.id" status="online",NET.
-http://210.210.155.37/qwr9ew/s/s08/index.m3u8
-#EXTINF:-1 tvg-id="Trans7.id" group-title="General",Trans7
-http://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TransTV.id" group-title="General",Trans TV
-http://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="CNNIndonesia.id" group-title="News",CNN Indonesia
+#EXTINF:-1 tvg-id="Trans7.id" ,Trans7
+https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TransTV.id" ,TransTV
+https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="CNN.id" ,CNN
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="AniplusAsia.sg" group-title="Animation",Aniplus
-http://210.210.155.37/dr9445/h/h02/index.m3u8
-#EXTINF:-1 tvg-id="ANTV.id" group-title="Undefined",ANTV
-http://210.210.155.37/qwr9ew/s/s07/index1.m3u8
-#EXTINF:-1 tvg-id="Indosiar.id" group-title="General",Indosiar
-http://210.210.155.37/qwr9ew/s/s04/index.m3u8
-#EXTINF:-1 tvg-id="SCTV.id" status="error",SCTV
-http://210.210.155.37/qwr9ew/s/s03/index.m3u8
-#EXTINF:-1 tvg-id="tvOne.id" status="online",tvOne
-http://210.210.155.37/qwr9ew/s/s105/01.m3u8
-#EXTINF:-1 tvg-id="RajawaliTV.id" status="error",RTV
-http://210.210.155.37/dr9445/h/h10/index.m3u8
+#EXTINF:-1,RTV
+http://210.210.155.35/uq2663/h/h10/index.m3u8
+#EXTINF:-1 ,ANTV
+http://bit.ly/iReg-ANTV
+#EXTINF:-1,MetroTV
+http://210.210.155.35/uq2663/h/h12/index.m3u8
+#EXTINF:-1 ,KOMPAS TV
+http://eroz.hi2.ro/iptv/lokal/kompas.m3u8
+#EXTINF:0 ,JTV Surabaya
+http://202.80.222.175/000001/2/ch00000090990000001731/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 tvg-id="CNBC.id" ,CNBC
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
+#EXTINF:0,BeritaSatu
+https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-id="RCTV.id" group-title="Undefined",RCTV
-http://122.248.43.138:1935/ch9/myStream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CinemaWorld.my" group-title="Movies",CinemaWorld
-http://210.210.155.35/dr9445/h/h04/index.m3u8
-#EXTINF:-1 tvg-id="MyCinemaAsia.id" group-title="Movies",My Cinema Asia 
-http://210.210.155.37/uq2663/h/h193/index.m3u8
-#EXTINF:-1 tvg-id="MyFamily.id" group-title="Family",My Family Channel 
-http://210.210.155.37/uq2663/h/h194/index.m3u8
-#EXTINF:-1 tvg-id="MyKidz.id" group-title="Kids",My Kidz
-http://210.210.155.37/uq2663/h/h191/index.m3u8
-#EXTINF:-1 tvg-id="MyCinema.id" group-title="Movies",My Cinema 
-http://210.210.155.37/uq2663/h/h192/index.m3u8
-#EXTINF:-1 tvg-id="KPlus.sg" group-title="Undefined",K+
-http://210.210.155.37/uq2663/h/h08/index.m3u8
-
-#EXTINF:-1 tvg-id="BeritaSatu.id" group-title="News",BeritaSatu
-http://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
-#EXTINF:-1 tvg-id="CNBCIndonesia.id" group-title="Business",CNBC Indonesia
-http://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
-#EXTINF:-1 tvg-id="TVRIEastKalimantan.id" group-title="Undefined",TVRI Kalimantan Timur
-http://118.97.50.107/Content/HLS/Live/Channel(TVRIKALTIMSAMARINDA)/index.m3u8
-
-#EXTINF:-1 tvg-id="KompasTV.id" group-title="News",Kompas TV
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/index.m3u8
-#EXTINF:-1 tvg-id="JekTV.id" status="online",Jek TV
-http://122.248.43.138:1935/ch14/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="MetroTV.id" group-title="News",Metro TV
-https://ythls.onrender.com/channel/UCzl0OrB3-ehunyotIQvK77A.m3u8
-#EXTINF:-1 tvg-id="JawaPosTV.id" group-title="Undefined",Jawa Pos TV
-https://v2.siar.us/jawapostv/live/chunks.m3u8
-#EXTINF:-1 tvg-id="SinemaIndonesiaX.id" status="online",Sinema Indonesia X
-https://bravo.kugo.id/live/sindox.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="ZeeBioskop.id" status="error",Zee Bioskop
-http://210.210.155.37/qwr9ew/s/s32/index.m3u8
-#EXTINF:-1 tvg-id="BloombergTVAsia.hk" group-title="Business",Bloomberg TV Asia 
-http://bloomberg.com/media-manifest/streams/asia.m3u8
+#EXTINF:-1 ,Hits
+http://210.210.155.35/session/b664cd50-6b66-11e9-88bd-a3eeb50c438d/uq2663/h/h37/index2.m3u8?fluxustv.m3u8
+#EXTINF:-1 ,CinemaWorld
+http://210.210.155.35/uq2663/h/h04/01.m3u8?fluxustv.m3u8
+#EXTINF:0,K+
+http://210.210.155.35/uq2663/h/h08/01.m3u8?fluxustv.m3u8
+#EXTINF:-1,AXN
+http://210.210.155.35/uq2663/h/h09/index.m3u8
+#EXTINF:-1 ,ADiTV
+http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
